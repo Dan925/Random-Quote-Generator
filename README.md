@@ -1,7 +1,5 @@
 # Random Quote Generator App
 
-## Screenshots
-
 ![Screenshot of random quote view](./src/assets/sc2.png)
 
 ![Screenshot of quote list from a specific author](./src/assets/sc1.png)
