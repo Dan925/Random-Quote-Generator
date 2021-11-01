@@ -1,4 +1,5 @@
 # Random Quote Generator App
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 
 ![Screenshot of random quote view](./src/assets/sc2.png)
 
