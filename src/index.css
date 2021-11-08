@@ -63,6 +63,12 @@ a{
   gap:.3em;
 }
 
+.navbar{
+  width:90%;
+  position:sticky;
+  top:0;
+}
+
 
 .quote-container{
  

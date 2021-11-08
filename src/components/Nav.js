@@ -23,7 +23,7 @@ export const Nav = () => {
 
     
     return (
-        <div className="row-container fixed-top">
+        <div className="row-container navbar">
             <h1>Random Quote Generator</h1>
             
             <span className="nav-group left-align">
